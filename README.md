@@ -2,7 +2,7 @@
 
 ## 一、Introduction
 
-* This subject is from [Android Recruitment Test](https://github.com/tianyalu/CurrencyDemo/blob/master/resources/Android Recruitment Test.pdf)
+* This subject is from [Android Recruitment Test](https://github.com/tianyalu/CurrencyDemo/blob/master/resources/Android_Recruitment_Test.pdf)
 * Database is [ObjectBox](https://github.com/objectbox/objectbox-java)
 
 ## 二、Preview

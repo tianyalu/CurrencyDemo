@@ -2,15 +2,13 @@ package com.sty.currencydemo.interfaces;
 
 import com.sty.currencydemo.model.CurrencyInfo;
 
-import java.util.List;
+import java.util.ArrayList;
 
-/**
- * @Author: tian
- * @UpdateDate: 2021/2/26 10:34 PM
- */
 public interface IMainViewCallback {
 
-    void onLoadData(List<CurrencyInfo> currencyInfoList);
+    //to load the data and display
+    void onLoadData(ArrayList<CurrencyInfo> A);
 
+    //For sorting currency list
     void onSort();
 }
